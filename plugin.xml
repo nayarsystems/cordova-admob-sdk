@@ -16,8 +16,8 @@
     </engines>
 
     <platform name="android">
-        <framework src="com.google.android.gms:play-services-base:+" />
-        <framework src="com.google.android.gms:play-services-ads:+" />
+        <framework src="com.google.android.gms:play-services-base:11.0.1" />
+        <framework src="com.google.android.gms:play-services-ads:11.0.1" />
     </platform>
 
     <platform name="ios">
