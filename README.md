@@ -2,6 +2,8 @@
 
 This plugin is intended to be a dependency of other plugins.
 
+Modified to use com.google.android.gms:play-services-ads version 11.0.1
+
 ## Dependents
 
 - [cordova-plugin-admob-free](https://www.npmjs.com/package/cordova-plugin-admob-free)
